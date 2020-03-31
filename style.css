@@ -36,7 +36,9 @@ hr{
 	font-weight: bold;
 	color: white;
 	background-color: #333230;
-	height: 180%;
+	height: 100%;
+	width: 100%;
+	
 }
 .introduction h1{
 	
@@ -77,4 +79,18 @@ hr{
 .dunhum{
 	margin-left: 10px;
 	margin-bottom: 10px;
+}
+.btn{
+	justify-content: flex-start;
+}
+.learnmore{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 25%;
+	background-color: #333230;
+}
+
+.images{
+	background-color: #333230;
 }
