@@ -13,10 +13,9 @@ hr{
 
 .main-img{
 	background: url("barfanatics black.png") no-repeat center center;
-		
+	background-size: 100% 100vh;
 	height: 100%;
-	width:100%;
-	background-size: cover;
+	width: 100vw;
 	margin-top: -3.5%;
 }
 
@@ -93,4 +92,20 @@ hr{
 
 .images{
 	background-color: #333230;
+	padding-top: 8px;
+}
+
+.p-intro{
+	background-color: #333230;
+	margin-bottom: 0px;
+}
+
+.intro-coontainer
+{
+	background-color: #333230;
+}
+
+.description{
+	background-color: #333230;
+	margin-bottom: 0px;
 }
