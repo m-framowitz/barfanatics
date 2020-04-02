@@ -11,7 +11,7 @@ hr{
 	margin: 0px;
 }
 .main-img{
-	background: url("barfanatics black.png")  no-repeat center center fixed;
+	background: url("barfanatics black.png")  no-repeat center center;
 	background-size: 100%;
 	height: 100%;
 	width: 100vw;
